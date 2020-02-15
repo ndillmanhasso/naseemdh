@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579990291175.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D2C59879",
+    "lastKnownWriteTime" : 1581789824,
+    "last_content_update" : 1581789824,
+    "path" : "~/Desktop/Website/naseemdh/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+        "cursorPosition" : "22,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
