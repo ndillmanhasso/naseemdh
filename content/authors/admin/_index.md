@@ -24,7 +24,7 @@ name: Naseem Dillman-Hasso
 organizations:
 - name: Carleton College
   url: "https://carleton.edu"
-role: Psychology Student
+role: Lab Manager at the [Perception Lab](https://apps.carleton.edu/curricular/psyc/perception/)
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,4 +47,4 @@ user_groups:
 - Visitors
 ---
 
-Naseem Dillman-Hasso is a psychology student at Carleton College. His research interests include speech perception, environmental psychology, and open science. He is a research assistant at [Professor Julia Strand](https://apps.carleton.edu/curricular/psyc/jstrand/)'s [Perception Lab](https://apps.carleton.edu/curricular/psyc/perception/), and conducts independent environmental psychology research with [Professor Deborah Gross](https://apps.carleton.edu/profiles/dgross/).
+Naseem Dillman-Hasso is a recent psychology graduate from Carleton College. His research interests include speech perception, environmental psychology, and open science. He is the lab manager at [Professor Julia Strand](https://apps.carleton.edu/curricular/psyc/jstrand/)'s [Perception Lab](https://apps.carleton.edu/curricular/psyc/perception/). While at Carleton, he conducted independent environmental psychology research with [Professor Deborah Gross](https://apps.carleton.edu/profiles/dgross/).
