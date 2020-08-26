@@ -16,7 +16,7 @@ featured: true
 #  focal_point: ""
 #  preview_only: false
 projects: [speech perception]
-publication: '*PLOS One*(1)'
+publication: '*PLOS One*'
 publication_short: ""
 publication_types:
 - "2"
