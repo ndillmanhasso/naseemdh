@@ -8,8 +8,8 @@ authors:
 - L Ray
 - admin
 - JF Strand
-date: "2019-11-12T00:00:00Z"
-doi: " 10.1371/journal.pone.0207160"
+date: "2018-11-12T00:00:00Z"
+doi: "10.1371/journal.pone.0207160"
 featured: true
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -44,4 +44,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

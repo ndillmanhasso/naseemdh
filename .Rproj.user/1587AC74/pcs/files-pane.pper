@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
     "path" : "~/Desktop",
     "sortOrder" : [
+=======
+    "path": "~/Desktop/Website/naseemdh/content/authors/admin",
+    "sortOrder": [
+>>>>>>> 2851e932924be6708e685c6b39f00230b65265f3
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": false
         }
     ]
 }

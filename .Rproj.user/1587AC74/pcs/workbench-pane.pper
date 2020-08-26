@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
     "TabSet1" : 0,
     "TabSet2" : 3,
     "TabZoom" : {
     }
+=======
+    "TabSet1": 4,
+    "TabSet2": 0,
+    "TabZoom": {}
+>>>>>>> 2851e932924be6708e685c6b39f00230b65265f3
 }
