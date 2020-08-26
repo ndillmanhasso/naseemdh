@@ -5,69 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Naseem Dillman-Hasso is a psychology student at Carleton College. His research interests include speech perception, environmental psychology, and open science. He is a research assistant at &lt;a href=&#34;https://apps.carleton.edu/curricular/psyc/jstrand/&#34;&gt;Professor Julia Strand&lt;/a&gt;&amp;lsquo;s &lt;a href=&#34;https://apps.carleton.edu/curricular/psyc/perception/&#34;&gt;Perception Lab&lt;/a&gt;, and conducts independent environmental psychology research with &lt;a href=&#34;https://apps.carleton.edu/profiles/dgross/&#34;&gt;Professor Deborah Gross&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Zanger</title>
-      <link>/authors/a-zanger/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a-zanger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JF Strand</title>
-      <link>/authors/jf-strand/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jf-strand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L Ray</title>
-      <link>/authors/l-ray/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/l-ray/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Hedayati</title>
-      <link>/authors/m-hedayati/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m-hedayati/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Mayn</title>
-      <link>/authors/s-mayn/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s-mayn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VA Brown</title>
-      <link>/authors/va-brown/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/va-brown/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
