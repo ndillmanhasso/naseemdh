@@ -9,7 +9,7 @@ education:
 #    year: 2012
   - course: Ph.D. Candidate in Environment and Natural Resources
     institution: [The Ohio State University](https://senr.osu.edu/)
-#    year: 2009
+    year: current
   - course: BA in Psychology
     institution: Carleton College
     year: 2020
