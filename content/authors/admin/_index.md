@@ -7,19 +7,19 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
+  - course: Ph.D. Candidate in Environment and Natural Resources
+    institution: [The Ohio State University](https://senr.osu.edu/)
 #    year: 2009
   - course: BA in Psychology
     institution: Carleton College
     year: 2020
 email: "dillmann@carleton.edu"
 interests:
-- Speech Perception
 - Environmental Psychology
 - Open Science
+- Improving Methodology
 - Climate Change
-- Nature
+- Speech Perception
 name: Naseem Dillman-Hasso
 organizations:
 - name: Carleton College
@@ -47,4 +47,4 @@ user_groups:
 - Visitors
 ---
 
-Naseem Dillman-Hasso is a psychology graduate from Carleton College. His research interests include speech perception, environmental psychology, and open science. He is the lab manager at [Professor Julia Strand](https://apps.carleton.edu/curricular/psyc/jstrand/)'s [Perception Lab](https://apps.carleton.edu/curricular/psyc/perception/). While a student at Carleton, he conducted independent environmental psychology research with [Professor Deborah Gross](https://apps.carleton.edu/profiles/dgross/).
+Naseem Dillman-Hasso is a psychology graduate from Carleton College. His research interests include environmental psychology, speech perception, and open science. He is the lab manager at [Dr. Julia Strand](https://apps.carleton.edu/curricular/psyc/jstrand/)'s [Perception Lab](https://apps.carleton.edu/curricular/psyc/perception/). While a student at Carleton, he conducted independent environmental psychology research with [Dr. Deborah Gross](https://apps.carleton.edu/profiles/dgross/). He will be attending (the) Ohio State University's School for Environment and Natural Resoures for a PhD with [Dr. Robyn Wilson](https://senr.osu.edu/our-people/robyn-s-wilson) and [Dr. Nicole Sintov](https://senr.osu.edu/our-people/nicole-sintov).
