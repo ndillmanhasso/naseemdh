@@ -7,9 +7,9 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: Ph.D. Candidate in Environment and Natural Resources
-    institution: [The Ohio State University](https://senr.osu.edu/)
-    year: current
+#  - course: Ph.D. Candidate in Environment and Natural Resources
+#    institution: [The Ohio State University](https://senr.osu.edu/)
+#    year: 2020
   - course: BA in Psychology
     institution: Carleton College
     year: 2020
