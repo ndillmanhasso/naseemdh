@@ -23,7 +23,7 @@ publishDate: "2021-03-15"
 summary: Replication of Rabbitt (1968), Experiment 2 with updated statistical methods
 tags:
 - Source Themes
-title: Recall of Speech is Impaired by Subsequent Masking Noise: A Replication of Rabbitt (1968) Experiment 2
+title: Recall of Speech is Impaired by Subsequent Masking Noise- A Replication of Rabbitt (1968) Experiment 2
 url_code: "https://osf.io/qjbxw/"
 url_dataset: ""
 url_pdf: "https://psyarxiv.com/zpykc/"
