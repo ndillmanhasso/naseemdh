@@ -19,7 +19,7 @@ publishDate: "2021-02-04"
 summary: Nature and climate change independently affect mental health. This paper argues for a need to look at how climate change is affecting nature access, and how that buffer affects mental health.
 tags:
 - Source Themes
-title: The nature buffer: the missing link in climate change and mental health research
+title: The nature buffer- the missing link in climate change and mental health research
 url_code: ""
 url_dataset: ""
 url_pdf: "https://psyarxiv.com/qdfte/"
