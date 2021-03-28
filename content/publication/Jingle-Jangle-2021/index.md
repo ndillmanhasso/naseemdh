@@ -23,7 +23,7 @@ publishDate: "2021-03-23"
 summary: Listening effort measures are rarely correlated. This paper argues for a need to think about measurement, especially in the context of listening effort.
 tags:
 - Source Themes
-title: Understanding Speech amid the Jingle and Jangle- Recommendations for Improving Measurement Practices in Listening Effort Research
+title: "Understanding Speech amid the Jingle and Jangle: Recommendations for Improving Measurement Practices in Listening Effort" Research
 url_code: ""
 url_dataset: ""
 url_pdf: "https://www.tandfonline.com/doi/pdf/10.1080/25742442.2021.1903293"
